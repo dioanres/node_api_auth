@@ -1,0 +1,29 @@
+{
+  "name": "node_api_auth",
+  "version": "1.0.0",
+  "description": "Authentication API With JWT Token",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dioanres/node_api_auth.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "auth",
+    "jwt"
+  ],
+  "author": "dioanres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dioanres/node_api_auth/issues"
+  },
+  "homepage": "https://github.com/dioanres/node_api_auth#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
